@@ -4,10 +4,13 @@ I'm a developer with a strong foundation in various technologies and a passion f
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Pastu17)
 
-💬 Ask me about HTML, CSS, JavaScript, Python, Java, Typescript, PHP, React, Angular, and MySQL.
+💬 Ask me about HTML, CSS, JavaScript, Python, Java, TypeScript, PHP, React, Angular, and MySQL.
 
 📫 How to reach me: [ytrewtrew11@gmail.com](mailto:ytrewtrew11@gmail.com)
 
+🌐 Check out my personal portfolio: [My Portfolio](https://pastuporta-170224.vercel.app/#)
+
+💼 Learn more about my development agency: [InCode](https://incode-three.vercel.app/index.html)
 
 ### Connect with me:
 [LinkedIn Profile](https://github.com/Pastu17)
