@@ -6,7 +6,7 @@ I'm a developer with a strong foundation in various technologies and a passion f
 
 💬 Ask me about HTML, CSS, JavaScript, Python, Java, TypeScript, PHP, React, Angular, and MySQL.
 
-📫 How to reach me: [ytrewtrew11@gmail.com](mailto:ytrewtrew11@gmail.com)
+📫 How to reach me: [ytrewtrew11@gmail.com](mailto:Josefovelez22@gmail.com)
 
 🌐 Check out my personal portfolio: [My Portfolio](https://pastuporta-170224.vercel.app/#)
 
