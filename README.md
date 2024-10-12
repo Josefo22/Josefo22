@@ -27,7 +27,13 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 
 ## ⚡ Recent GitHub Activity
 <p align="center">
-    <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=ecf05e479r3opryx6huhcvq2cllxc6grj81m8is4qzhm6a0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Activity Animation" width="200"/>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 ## 🔗 Connect with me:
@@ -61,12 +67,4 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 
 Feel free to connect with me and check out my projects. Let's build something amazing together!
 
----
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
