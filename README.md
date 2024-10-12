@@ -54,14 +54,15 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 </p>
 
 ---
+
 <p align="center">
     <img src="https://media.giphy.com/media/6rOhtOcGJapBECjMkb/giphy.gif?cid=ecf05e47nrcfbk1c8zrea32cru3fj5qym1qkgvh59efy29ki&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Building Something Awesome" width="300"/>
 </p>
+
 Feel free to connect with me and check out my projects. Let's build something amazing together!
-###
+
+---
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
