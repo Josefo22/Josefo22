@@ -4,7 +4,7 @@ I'm a developer with a strong foundation in various technologies and a passion f
 
 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Pastu17)
 
-💬 Ask me about HTML, CSS, JavaScript, Python, Java, TypeScript, PHP, React, Angular, and MySQL.
+💬 Ask me about: HTML, CSS, JavaScript, Python, Java, TypeScript, PHP, React, Angular, and MySQL.
 
 📫 How to reach me: [ytrewtrew11@gmail.com](mailto:Josefovelez22@gmail.com)
 
@@ -12,8 +12,16 @@ I'm a developer with a strong foundation in various technologies and a passion f
 
 💼 Learn more about my development agency: [InCode](https://incode-three.vercel.app/index.html)
 
+### GitHub Stats 📊
+![Juan José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pastu17&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pastu17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Recent GitHub Activity ⚡
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Connect with me:
-[LinkedIn Profile](https://github.com/Pastu17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-agudelo-v%C3%A9lez-38a216271/)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
