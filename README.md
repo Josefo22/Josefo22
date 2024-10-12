@@ -27,7 +27,7 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 
 ## ⚡ Recent GitHub Activity
 <p align="center">
-    <img src="https://media.giphy.com/media/xT1XGNBgB3xeZMp1LG/giphy.gif" alt="Activity Animation" width="200"/>
+    <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=ecf05e479r3opryx6huhcvq2cllxc6grj81m8is4qzhm6a0j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Activity Animation" width="200"/>
 </p>
 
 ## 🔗 Connect with me:
@@ -54,5 +54,7 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 </p>
 
 ---
-
+<p align="center">
+    <img src="https://media.giphy.com/media/6rOhtOcGJapBECjMkb/giphy.gif?cid=ecf05e47nrcfbk1c8zrea32cru3fj5qym1qkgvh59efy29ki&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Building Something Awesome" width="300"/>
+</p>
 Feel free to connect with me and check out my projects. Let's build something amazing together!
