@@ -1,7 +1,7 @@
 # Hi there, I'm **Juan José Agudelo Vélez** 👋 🚀
 
 <p align="center">
-    <img src="https://media.giphy.com/media/xUPGcyuLXwPvZX4KLC/giphy.gif" alt="Coding Animation" width="200"/>
+    <img src="https://media.giphy.com/media/FpZjyHjaiuNkhr0amc/giphy.gif?cid=790b76116bl1tngmm1ydyjgxx4hog5xz6airugcg480u30jr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding Animation" width="200"/>
 </p>
 
 I’m a passionate **Developer** with a strong foundation in various technologies and a deep love for creating impactful digital solutions. Always learning, always building. 🧑‍💻
