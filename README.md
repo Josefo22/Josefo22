@@ -55,8 +55,4 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 
 ---
 
-<p align="center">
-    <img src="https://media.giphy.com/media/FpZjyHjaiuNkhr0amc/giphy.gif?cid=790b76116bl1tngmm1ydyjgxx4hog5xz6airugcg480u30jr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Building Something Awesome" width="300"/>
-</p>
-
 Feel free to connect with me and check out my projects. Let's build something amazing together!
