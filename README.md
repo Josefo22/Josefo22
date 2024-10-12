@@ -24,8 +24,10 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 </p>
 
 ---
-
 ## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
 <br clear="both">
 
@@ -35,6 +37,7 @@ I’m a passionate **Developer** with a strong foundation in various technologie
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
+
 
 ## 🔗 Connect with me:
 <p align="center">
