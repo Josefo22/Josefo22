@@ -21,7 +21,7 @@ I’m a passionate **Developer** with a strong foundation in various technologie
 
 ![Josefo22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josefo22&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefo22&layout=compact&theme=radical)](https://github.com/Josefo22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefo22&layout=compact&theme=radical)](https://github.com/Josefo2)
 
 
 ---
