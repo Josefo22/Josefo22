@@ -48,19 +48,28 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 🔥 Recent Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josefo22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefo22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+  <a href="https://github.com/Josefo22/IA-Emociones">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josefo22&repo=IA-Emociones&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Josefo22/Sis_ventas3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josefo22&repo=Sis_ventas3&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
-
-## 🔥 Recent Projects
 
 <div align="center">
   <a href="https://github.com/Josefo22">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josefo22&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josefo22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefo22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
 </div>
 
 ## 📫 Let's Connect
