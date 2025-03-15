@@ -18,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <div align="center">
-  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/213e2d24-4578-48e5-82c2-d93506c9ecf5" width="330" alt="coding animation">
+  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330" alt="coding animation">
 </div>
 
 > Passionate developer crafting impactful digital solutions with a deep expertise across the full technology stack. Always learning, always building.
