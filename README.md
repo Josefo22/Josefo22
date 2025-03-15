@@ -1,4 +1,4 @@
-# <div align="center">✨ Juan José Agudelo Vélez ✨</div>
+# <div align="center">Juan José Agudelo Vélez</div>
 ## <div align="center">💻 Full Stack Developer & Freelancer 🚀</div>
 
 <div align="center">
@@ -104,8 +104,9 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Josefo22&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Josefo22&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies">
 </div>
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
