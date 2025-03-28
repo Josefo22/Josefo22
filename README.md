@@ -114,21 +114,28 @@
 </div>
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
-
+🌠 Collaboration Invitation
 <div align="center">
-  <p>I'm always open to interesting projects and collaboration opportunities. Feel free to reach out!</p>
-  
-  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-agudelo-v%C3%A9lez-38a216271/">
-    <img src="https://img.shields.io/badge/Let's_talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk" />
+  <h3>🚀 Let's Create Digital Magic Together! 💡</h3>
+  <p>
+    Seeking to transform innovative ideas into reality? 
+    Need a tech solution that challenges conventions? 
+    I'm your developer, ready to bring your vision to life!
+  </p>
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-agudelo-v%C3%A9lez-38a216271/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_&_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=blinking" alt="Collaboration Invite"/>
   </a>
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer Image">
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Wave Footer"/>
 </div>
+<!-- Enhanced Hover Animations -->
+<style>
+  .social-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .social-hover:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0,123,255,0.7);
+  }
+</style>
