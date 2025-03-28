@@ -1,5 +1,8 @@
 # <div align="center">Juan José Agudelo Vélez</div>
-## <div align="center">💻 Full Stack Developer & Freelancer 🚀</div>
+<div align="center" style="background-color: blue; padding: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header&text=Juan%20José%20Agudelo%20Vélez&fontSize=40&animation=scaleIn&fontAlignY=40&desc=🌟%20Full%20Stack%20Developer%20%7C%20Digital%20Innovator%20%F0%9F%92%A1&descAlignY=60&fontColor=ffffff"/>
+</div>
+
 
 <div align="center">
   
