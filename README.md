@@ -1,6 +1,9 @@
-<div align="center" style="background-color: blue; padding: 20px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header&text=Juan%20José%20Agudelo%20Vélez&fontSize=40&animation=scaleIn&fontAlignY=40&desc=🌟%20Full%20Stack%20Developer%20%7C%20Digital%20Innovator%20%F0%9F%92%A1&descAlignY=60&fontColor=ffffff"/>
+<div align="center" style="background-color: #0047AB; padding: 30px; border-radius: 10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:003580&height=150&section=header&text=Juan%20José%20Agudelo%20Vélez&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=ffffff"/>
+  
+  <h2 style="color: white; margin-top: 20px; font-size: 24px;">🌟 Full Stack Developer | Digital Innovator 💡</h2>
 </div>
+
 
 
 <div align="center">
