@@ -4,8 +4,6 @@
   <h2 style="color: white; margin-top: 20px; font-size: 24px;">🌟 Full Stack Developer | Digital Innovator 💡</h2>
 </div>
 
-
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=435&lines=Passionate+Coder;Creative+Problem+Solver;Full+Stack+Developer)
@@ -51,7 +49,6 @@
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
-
   ### Backend 🔐
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -62,13 +59,11 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
   ### Tools & DevOps 🛠️
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Recent Projects
@@ -94,7 +89,6 @@
   </div>
 </details>
 
-
 <details open>
   <summary><b>📈 Activity Graph</b></summary>
   <br>
@@ -113,8 +107,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Josefo22&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies">
 </div>
 
-
-🌠 Collaboration Invitation
+## 🌠 Collaboration Invitation
 <div align="center">
   <h3>🚀 Let's Create Digital Magic Together! 💡</h3>
   <p>
@@ -126,16 +119,7 @@
     <img src="https://img.shields.io/badge/Connect_&_Collaborate-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=blinking" alt="Collaboration Invite"/>
   </a>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Wave Footer"/>
 </div>
-<!-- Enhanced Hover Animations -->
-<style>
-  .social-hover {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .social-hover:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 20px rgba(0,123,255,0.7);
-  }
-</style>
